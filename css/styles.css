@@ -1,0 +1,154 @@
+#title{
+    background-color: #c295d8;
+}
+
+#features{
+  text-align: center;
+  padding:7% 15%;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+  padding: 2% 15% ;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.rounded-circle{
+  padding-top:2rem;
+}
+
+.alignment{
+text-align: center; 
+}
+
+.nav-item{
+  padding: 0 18px ;
+}
+
+.nav-link{
+  font-family: 'Montserrat-light', sans-serif;
+  font-weight: lighter;
+}
+
+
+.fas{
+  color: #e1ccec;
+  margin-bottom: 1rem;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem !important;
+  font-weight: bolder!important;
+  line-height:2!important;
+  space:2%!important;
+}
+
+.navbar-brand{
+  font-family: 'Akaya Telivigala', cursive;
+  font-size: 3rem !important;
+  font-weight: bold;
+  font-style: normal;
+
+}
+
+h3{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 1.5rem!important;
+  font-weight: bold!important;
+}
+
+.feature-para{
+  color: #8f8f8f;
+}
+
+.idk:hover{
+color:#be9fe1;
+}
+.rounded-circle{
+  padding:5% 2%;
+  width:90%;
+  height:90%;
+}
+
+.download-btn{
+  margin: 7% 5% 0 0;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #c9b6e4;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:3rem!important;
+  font-weight: bold !important;
+  line-height: 1.5;
+}
+
+.carousel-item{
+    padding:7% 15%;
+}
+
+.testimonial-img{
+  text-align: center;
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #c9b6e4;
+  text-align: center;
+  padding:3%;
+}
+.press-logo{
+  width:15% ;
+  margin:20px;
+}
+#pricing{
+  padding:100px;
+  text-align: center;
+}
+
+.card-header{
+  background-color: #c295d8 !important;
+}
+.sign-up-btn {
+    background-color: #c9b6e4 !important;
+}
+
+.card{
+  margin:2%;
+}
+
+.pricing-col {
+  padding:3% 2%;
+}
+
+#cta{
+  text-align: center;
+  font-size: 3rem !important;
+  font-family: 'Montserrat', sans-serif;
+  background-color:#c9b6e4;
+  padding: 4%;
+}
+
+#footer{
+    text-align: center;
+    padding: 2%;
+}
+
+.last-btn{
+  margin: 5% 0 0 0;
+}
+
+.icons{
+  padding:1%;
+}
